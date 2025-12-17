@@ -75,6 +75,10 @@
 
 <div align="center">
   <br/>
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=harish0stack&show_icons=true&theme=radical&hide_border=true" />
+  </p>
+
   
   <h3>❝ Robotics is not just a field of science;<br/>it is a canvas for art, innovation, and progress. ❞</h3>
   
@@ -84,9 +88,6 @@
   
   <br/><br/>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  </p>
 
 </div>
 
